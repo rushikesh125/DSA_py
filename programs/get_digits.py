@@ -7,4 +7,4 @@ while num>0:
     result += last_digit**size
     num = num//10
 
-print(result)
+print(result )
